@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**andersonesanto/andersonesanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a xxx working in Recife, Brasil.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### BIO
+- ⚙️ I’m currently working at **MV (www.mv.com.br)**
+- 🔭 I’m currently studying data engineering, on **IGTI (www.igti.com.br)**
+- 🌱 I’m currently learning Kubernetes, python, Spark, jupyter-notebook
+- 👯 I’m looking to collaborate on Data Engineering
+- 💬 Ask me about Oracle, Linux, AWS, Oracle Cloud, SoulMV, MVPEP
+- 📫 How to reach me: 
+  - twitter @andersonesanto 
+  - Linkedin https://www.linkedin.com/in/andersonesanto/
+- Oracle OCP
+- SBIS CPTICS
+- ⚡️ Fun fact: Work all day listening www.radioparadise.com
