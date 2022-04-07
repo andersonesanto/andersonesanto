@@ -13,4 +13,4 @@
   - Linkedin https://www.linkedin.com/in/andersonesanto/
 - Oracle OCP
 - SBIS CPTICS (http://sbis.org.br/cptics)
-- ⚡️ Fun fact: I listen to www.radioparadise.com when I work.
+- ⚡️ Fun Fact: I really like www.radioparadse.com
