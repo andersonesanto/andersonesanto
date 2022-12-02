@@ -14,3 +14,5 @@
 - Oracle OCP
 - SBIS CPTICS (http://sbis.org.br/cptics)
 - ⚡️ Fun Fact: I really like www.radioparadse.com
+
+https://www.credly.com/badges/a580c579-d34d-411c-ba66-4fe5631de6db/public_url
