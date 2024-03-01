@@ -10,8 +10,7 @@
   - twitter @andersonesanto 
   - Linkedin https://www.linkedin.com/in/andersonesanto/
 - Oracle OCP
-- SBIS CPTICS (http://sbis.org.br/cptics)
-- ⚡️ Fun Fact: I really like www.radioparadse.com
+- ⚡️ Listen www.radioparadse.com
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
